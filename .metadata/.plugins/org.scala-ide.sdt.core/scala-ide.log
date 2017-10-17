@@ -1,0 +1,8 @@
+2017-10-17 17:56:41,553  WARN [ModalContext] - ScalaProject - Project WordCount has platform default sourceLevel.
+2017-10-17 17:56:41,553  WARN [ModalContext] - ScalaProject - Project WordCount runs on platform default installation.
+2017-10-17 17:56:41,553  WARN [ModalContext] - ScalaProject - Project WordCount has platform default sourceLevel.
+2017-10-17 17:56:41,553  WARN [ModalContext] - ScalaProject - Project WordCount runs on platform default installation.
+2017-10-17 17:57:40,858  WARN [ModalContext] - ScalaProject - Project WordCount has platform default sourceLevel.
+2017-10-17 17:57:40,858  WARN [ModalContext] - ScalaProject - Project WordCount runs on platform default installation.
+2017-10-17 17:57:40,900 ERROR [Worker-8] - System.err - log4j:WARN No appenders could be found for logger (org.eclipse.jgit.util.FS).
+2017-10-17 17:57:40,901 ERROR [Worker-8] - System.err - log4j:WARN Please initialize the log4j system properly.

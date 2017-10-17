@@ -1,0 +1,9 @@
+ H:\ws\apache-spark-fundamentals\2-apache-spark\before\WordCount>
+
+spark-submit --class "main.WordCounter" --master "local[*]" "H:\ws\apache-spark-fundamentals\2-apache-spark\before\WordCount\target\scala-2.10\word-count_2.10-0.1.jar"
+
+spark-submit --class "main.WordCounter" --master "local[*]" "H:\ws\SparkJar\wordCounter.jar" "file:///C:/derby.log" "file:///H:/ws/SparkHadoop"
+
+
+spark-submit --class "main.WordCounter" --master "local[*]" "H:\ws\SparkJar\wordCounter.jar" "file://
+/C:/derby.log" "file:///H:/ws/SparkHadoop"
